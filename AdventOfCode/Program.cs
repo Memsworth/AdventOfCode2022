@@ -6,8 +6,7 @@ namespace AdventOfCode
     {
         static void Main(string[] args)
         {
-            var dayOne = new DayOne();
-            dayOne.Solve("C:\\Repos\\AdventOfCode\\AdventOfCode\\Input\\Input01.txt");
+            DayThree.Solve(@"C:\Repos\AdventOfCode2022\AdventOfCode\Input\Input03.txt");
         }
     }
 }
